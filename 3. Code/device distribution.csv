@@ -1,0 +1,31 @@
+error_message,total_errors_on_desktop,total_errors_on_mobile,total_errors,errors_on_desktop_rate,errors_on_mobile_rate
+NULL,1205,167,1372,0.8783,0.1217
+"number field is required",502,718,1220,0.4115,0.5885
+"year field is required",551,133,684,0.8056,0.1944
+"Your card was declined.",294,73,367,0.8011,0.1989
+"lastName field is required",116,32,148,0.7838,0.2162
+"Your card has insufficient funds.",98,23,121,0.8099,0.1901
+"Your card does not support this type of purchase.",71,19,90,0.7889,0.2111
+"Your card is not supported.",53,16,69,0.7681,0.2319
+"month field is required",42,17,59,0.7119,0.2881
+"Your card's security code is incorrect.",29,10,39,0.7436,0.2564
+"State field is required",26,7,33,0.7879,0.2121
+"zip field is required",26,5,31,0.8387,0.1613
+"firstName field is required",15,4,19,0.7895,0.2105
+"Your card number is incorrect.",13,5,18,0.7222,0.2778
+"cvv field is required",8,5,13,0.6154,0.3846
+"Your card's security code is invalid.",6,5,11,0.5455,0.4545
+"An error occurred while processing your card. Try again in a little bit.",8,1,9,0.8889,0.1111
+"Your card has expired.",6,1,7,0.8571,0.1429
+"Credit card number: must be a valid credit card number.",4,0,4,1.0000,0.0000
+"Chargify token not found",4,0,4,1.0000,0.0000
+"Your card is not supported for this currency. Please use a Visa or MasterCard card",3,0,3,1.0000,0.0000
+"Your card was declined. Your request was in live mode, but used a known test card.",2,0,2,1.0000,0.0000
+"2070 PayPal Buyer Revoked Pre-Approved Payment Authorization",2,0,2,1.0000,0.0000
+"Your card's expiration year is invalid.",1,1,2,0.5000,0.5000
+"You have tried too many cards. Please try again in an hour.",1,1,2,0.5000,0.5000
+"Coupon Code: '10OFFSPECIAL' - Coupon code could not be found.",1,0,1,1.0000,0.0000
+"2046 Declined",1,0,1,1.0000,0.0000
+"Invalid account.",1,0,1,1.0000,0.0000
+"Invalid City",1,0,1,1.0000,0.0000
+"Payment profile: cannot be blank.",1,0,1,1.0000,0.0000

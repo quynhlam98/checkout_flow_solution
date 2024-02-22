@@ -1,0 +1,6 @@
+type_of_purchase,COUNT(*)
+"annual package",3355
+"monthly package",653
+"single course",217
+"lifetime package",35
+"quarterly package",74
